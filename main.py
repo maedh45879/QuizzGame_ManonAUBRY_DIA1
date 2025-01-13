@@ -54,5 +54,5 @@ def quiz_histoire_france():
     print(f"Votre score final est : {score}/{len(questions)}")
 
 # Lancer le quiz
-if __name__ == "__main__": kkkkkkkkk
+if __name__ == "__main__":
     quiz_histoire_france()
